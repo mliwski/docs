@@ -1,5 +1,6 @@
 {
-  "what-to-track": "What to Track?",
+  "what-to-track": "What to Track",
+  "connect-your-data": "Connect Your Data",
   "http-api": {
     "type": "page",
     "title": "HTTP API",
@@ -20,7 +21,7 @@
     "title": "Mobile SDK",
     "href": "/docs/implementation/mobile-sdk"
   },
-  "API Credentials": {
+  "api-credentials": {
     "type": "page",
     "title": "API Credentials",
     "href": "/docs/implementation/api-credentials"
